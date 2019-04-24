@@ -1,4 +1,4 @@
-# Cleaner-Bot--AI
+# Cleaner-Bot
 Welcome to my cleaning soft-bot. This project has developed for AI course, inspired by Mr. Ohidujjaman.  Please see the attached video to know more how to run this bot.
 
 
